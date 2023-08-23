@@ -6,7 +6,7 @@
     "innosetup": true,
     "architecture": {
         "64bit": {
-            "url": "https://pubdl.clonehero.net/clonehero-v1.0.0.4080-final/CloneHeroSetup-v1.0.0.4080-final-win64.exe",
+            "url": "https://github.com/clonehero-game/releases/releases/download/V1.0.0.4080/CloneHero-win64.exe",
             "hash": "sha1:45823b8cb97ef0f81e789b183dfe88fdd3c94531"
         }
     },
@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://pubdl.clonehero.net/clonehero-v$version-final/CloneHeroSetup-v$version-final-win64.exe"
+                "url": "https://github.com/clonehero-game/releases/releases/download/V$version/CloneHero-win64.exe"
             }
         }
     }

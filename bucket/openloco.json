@@ -1,13 +1,13 @@
 {
-    "version": "23.08",
+    "version": "24.02",
     "description": "Open source re-implementation of Chris Sawyer's Locomotion",
     "homepage": "https://github.com/OpenLoco/OpenLoco",
     "license": {
         "identifier": "MIT",
         "url": "https://github.com/OpenLoco/OpenLoco/raw/master/LICENSE"
     },
-    "url": "https://github.com/OpenLoco/OpenLoco/releases/download/v23.08/OpenLoco-v23.08-win32.zip",
-    "hash": "2ed62c23a5f2e3b9e7d71e4c334de9441e4c7a68c7be41a7258dab605b257f0b",
+    "url": "https://github.com/OpenLoco/OpenLoco/releases/download/v24.02/OpenLoco-v24.02-win32.zip",
+    "hash": "5a4dad2738905bd398e6066bb955b70c080949950ec50c160b4106efc27e07d3",
     "bin": "OpenLoco.exe",
     "shortcuts": [
         [
